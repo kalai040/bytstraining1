@@ -1,1 +1,0 @@
-# bytstraining day 1
